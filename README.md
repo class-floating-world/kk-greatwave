@@ -2,6 +2,8 @@ Test repo for Hokusai's Great Wave
 
 Use this repo to test your StoryMapJS settings
 
+Published at: https://class-floating-world.github.io/kk-greatwave/
+
 --------------------
 Katsushika Hokusai 
 
