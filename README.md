@@ -4,6 +4,8 @@ Use this repo to test your StoryMapJS settings
 
 Published at: https://class-floating-world.github.io/kk-greatwave/
 
+Image size: 3867 x 2644
+
 --------------------
 Katsushika Hokusai 
 
